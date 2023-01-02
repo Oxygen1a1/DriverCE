@@ -1,0 +1,21 @@
+LIBRARY
+EXPORTS
+;均是劫持version的导出函数
+;win10 x64版本
+ GetFileVersionInfoA		 
+ GetFileVersionInfoByHandle	 
+ GetFileVersionInfoExA		 
+ GetFileVersionInfoExW		 
+ GetFileVersionInfoSizeA	 
+ GetFileVersionInfoSizeExA	 
+ GetFileVersionInfoSizeExW	 
+ GetFileVersionInfoSizeW	 
+ GetFileVersionInfoW		 
+ VerFindFileA				 
+ VerFindFileW				 
+ VerInstallFileA			 
+ VerInstallFileW			 
+ VerLanguageNameA			 
+ VerLanguageNameW			 
+ VerQueryValueA				 
+ VerQueryValueW	

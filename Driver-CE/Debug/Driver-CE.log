@@ -1,0 +1,22 @@
+﻿  Building 'Driver-CE' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\Driver-CE.inf
+  Stamping [Version] section with DriverVer=01/02/2023,16.16.8.476
+  DriverMain.cpp
+  Driver-CE.vcxproj -> C:\Users\Administrator\Desktop\Driver-CE\Driver-CE\Debug\Driver-CE.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\Desktop\Driver-CE\Driver-CE\Debug\Driver-CE.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Administrator\Desktop\Driver-CE\Driver-CE\Debug\Driver-CE\driver-ce.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\Desktop\Driver-CE\Driver-CE\Debug\Driver-CE\driver-ce.cat
+  

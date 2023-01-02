@@ -1,0 +1,23 @@
+﻿  Building 'DriverCE' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+E:\tools\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Driver-CE.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Stamping x64\Debug\Driver-CE.inf
+  Stamping [Version] section with DriverVer=01/02/2023,18.9.45.330
+  DriverMain.cpp
+  Driver-CE.vcxproj -> C:\Users\Administrator\Desktop\Driver-CE\Driver-CE\x64\Debug\DriverCE.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\Desktop\Driver-CE\Driver-CE\x64\Debug\DriverCE.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Administrator\Desktop\Driver-CE\Driver-CE\x64\Debug\DriverCE\driver-ce.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\Desktop\Driver-CE\Driver-CE\x64\Debug\DriverCE\driver-ce.cat
+  
